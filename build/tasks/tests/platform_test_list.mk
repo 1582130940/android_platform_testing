@@ -5,7 +5,6 @@ platform_tests += \
     ActivityManagerPerfTestsStubApp3 \
     ActivityManagerPerfTestsTestApp \
     AndroidTVJankTests \
-    ApiDemos \
     AppCompatibilityTest \
     AppLaunch \
     AppLaunchWear \
@@ -21,7 +20,6 @@ platform_tests += \
     BandwidthTests \
     BluetoothTests \
     BootHelperApp \
-    BusinessCard \
     CalculatorFunctionalTests \
     camera_client_test \
     camera_metadata_tests \

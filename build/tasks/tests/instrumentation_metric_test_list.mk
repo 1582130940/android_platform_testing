@@ -17,7 +17,6 @@ instrumentation_metric_tests := \
     BlobStorePerfTests \
     crashcollector \
     CorePerfTests \
-    DocumentsUIAppPerfTests \
     MtpServicePerfTests \
     RsBlasBenchmark \
     ImageProcessingJB \
