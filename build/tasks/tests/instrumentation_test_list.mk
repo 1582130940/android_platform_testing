@@ -33,7 +33,6 @@ instrumentation_tests := \
     FrameworksUtilTests \
     MtpServiceTests \
     MtpTests \
-    DocumentsUITests \
     ShellTests \
     SystemUITests \
     TestablesTests \
@@ -44,7 +43,6 @@ instrumentation_tests := \
     ContactsProviderTests \
     SettingsUnitTests \
     TelecomUnitTests \
-    TraceurUiTests \
     AndroidVCardTests \
     PermissionFunctionalTests \
     BlockedNumberProviderTest \
@@ -53,7 +51,6 @@ instrumentation_tests := \
     DynamicCodeLoggerIntegrationTests \
     UsbTests \
     DownloadProviderTests \
-    EmergencyInfoUnitTests \
     CalendarProviderTests \
     SettingsLibTests \
     RSTest \
