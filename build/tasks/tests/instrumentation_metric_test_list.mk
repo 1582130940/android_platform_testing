@@ -23,7 +23,6 @@ instrumentation_metric_tests := \
     crashcollector \
     CorePerfTests \
     ContentCapturePerfTests \
-    DocumentsUIAppPerfTests \
     MtpServicePerfTests \
     RsBlasBenchmark \
     ImageProcessingJB \
